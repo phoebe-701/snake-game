@@ -1,0 +1,18 @@
+{
+  "name": "贪吃蛇",
+  "short_name": "贪吃蛇",
+  "description": "手机版贪吃蛇小游戏",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
